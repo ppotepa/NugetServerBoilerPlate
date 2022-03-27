@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickBytez.NugetServer.Application", "ClickBytez.NugetServer.Application\ClickBytez.NugetServer.Application.csproj", "{A9F7F8BE-B0AB-4E4E-BF64-DC0E7E840CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F7F8BE-B0AB-4E4E-BF64-DC0E7E840CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F7F8BE-B0AB-4E4E-BF64-DC0E7E840CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F7F8BE-B0AB-4E4E-BF64-DC0E7E840CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F7F8BE-B0AB-4E4E-BF64-DC0E7E840CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A44D6D2-DFF9-4C50-BD86-5F1B8B67A603}
+	EndGlobalSection
+EndGlobal
